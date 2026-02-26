@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables (secrets/local config)
+.env
+
+# User CV samples
+samples/
+
+# Test fixtures (binary)
+tests/fixtures/*.pdf
+
+# IDE
+.idea/
+.vscode/
+*.swp
